@@ -2,7 +2,7 @@ var payload;
 
 function loadPayload(pl){
 	sessionStorage.Queue = pl;
-	progress.innerHTML="Working on "+pl+".. Please wait !!";
+	progress.innerHTML="Jailbreaking Your Playstation 4 "+pl+".. Please wait !!";
 	setTimeout(poc, 1500);
 }
 
