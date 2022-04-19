@@ -1,23 +1,27 @@
 # PS4JB
 
-This is an Offline full chain exploit for PS4 firmware 9.00 with 100% Success Rate.
-https://akku0101.github.io/PS4JB900/
+This is an Offline full chain exploit for PS4 firmware 6.72, 7.02, 7.55 & 9.00 with 100% Success Rate.
 
 ## Steps
 
 * Delete Cookies and Clear Website Data
-* Open the Exploit Page (https://akku0101.github.io/PS4JB900/)
-* The Exploit gets cached. Turn off the Internet and Open the page and run the Jailbreak
-* click on Gold-Hen 9.00
-* then clin on God-Hen 2.2.2
-* Run Gold-Hen then after
-* Insert usb drive
-* after 20 sec pop up will appear ( Gold-Hen loaded)
-* Jailbreak is complete
-* Once Payload loaded successfully,
-* Remove usb drive
-* Open the Game
+* Open the Exploit Page https://darkmoddervc.github.io/PS4JB/
+* The Exploit gets cached. Turn off the Internet and Open the page and run the Jailbreak (Old Exploit/New Exploit)
+* Run HEN/MIRA after Jailbreak is complete
+* Once Payload loaded successfully, Open the Game
 
 Note: If you face crashes, Unplug your PS4, Click power button few times and then connect it back and Power on.
 
+## YouTube Channel
 
+https://www.youtube.com/channel/UCqP2nrYaECNZWfp7k4gbRBg
+
+## Credits
+
+* [Fire30](https://github.com/Fire30/bad_hoist) for the WebKit exploit
+* [TheFlow](https://hackerone.com/reports/826026) for the kernel exploit
+* [sleirsgoevy](https://github.com/sleirsgoevy/ps4jb) for the PS4 6.72 JB
+
+## Donate Me
+
+https://www.paypal.me/darkmodder
