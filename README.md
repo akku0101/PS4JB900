@@ -1,9 +1,6 @@
 # PS4JB
-
 # akku0101
-
 # akkuelectronics
-
 # akkushell
 
 #
@@ -33,4 +30,5 @@ https://www.youtube.com/c/GamecrackerS
 
 ## Donate Me
 sunil moundekar
+
 https://www.paypal.me/akku0101
