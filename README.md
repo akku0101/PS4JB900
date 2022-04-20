@@ -11,7 +11,7 @@ This is an Offline full chain exploit for PS4 firmware 9.00 with 100% Success Ra
 ## Steps
 
 * Delete Cookies and Clear Website Data
-* Open the Exploit Page https://akku0101.github.io/PS4JB900/index.html
+* Open the Exploit Page https://akku0101.github.io/ps4ex900fw/index.html
 * The Exploit gets cached. Turn off the Internet and Open the page and run the Jailbreak (Old Exploit/New Exploit)
 * Run Exploit Latest Gold-Hen 2.2.2 after Jailbreak is complete
 * Once Payload loaded successfully, Open the Game
