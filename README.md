@@ -32,3 +32,29 @@ https://www.youtube.com/c/GamecrackerS
 sunil moundekar
 
 https://www.paypal.me/akku0101
+
+
+
+
+
+
+
+
+
+
+
+credits: thanks to all ....
+
+Karo: http://karo218.ir
+
+Leeful: http://leeful.github.io/9v4
+
+GamerHack: https://gamerhack.github.io/ps4jb900v2/
+
+Kameleon: http://kmeps4.site/index.html
+
+Prb: http://prb123.ir/index.html
+
+Macedo: https://ps4macedo.github.io/900noguia/
+
+DarkModdervc: https://darkmoddervc.github.io/PS4JB/
